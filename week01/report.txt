@@ -1,0 +1,1 @@
+Melakukan push dan pull pada di remote repository dan mengenal perintah-perintah sederhana pada terminal linux.
