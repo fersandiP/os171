@@ -1,0 +1,3 @@
+-Membuat repository di github
+-Melakukan koneksi ssh ke badak
+-Melakuikan cloning repo os171 ke server badak
