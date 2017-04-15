@@ -1,0 +1,7 @@
+w06-170410-16-PS-Doing lab 6, read instruction learning about fork
+w06-170410-16-PS-Doing lab 6, analyze the given code
+w06-170410-17-PS-Doing lab 6, answer the question
+w06-170410-17-PS-Doing lab 6, modify 11-fork.c and finalize all answer
+w06-170411-13-LR-Listening to lectures
+w06-170411-13-LR-Listening to lectures
+w06-170411-14-LR-Listening to lectures
