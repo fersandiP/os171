@@ -1,0 +1,13 @@
+w08-170425-13-LR-Listening to lecture about socket programming
+w08-170425-13-LR-Listening to lecture
+w08-170425-14-LR-Listening to lecture
+w08-170427-13-LR-Exercise in class about process schedulling
+w08-170427-13-LR-Exercise in class about process schedulling
+w08-170427-14-LR-Exercise in class about process schedulling
+w08-170428-16-PS-Doing lab 8 with group
+w08-170428-16-PS-Doing lab 8 with group
+w08-170429-06-LR-Learn about socket.h and another library related to lab 8
+w08-170429-06-LR-Learn about socket.h and another library related to lab 8
+w08-170429-07-PS-Doing lab 8, analyzing given code and write it explanation in lab08.txt
+w08-170429-07-PS-Doing lab 8, analyzing given code and write it explanation in lab08.txt
+
